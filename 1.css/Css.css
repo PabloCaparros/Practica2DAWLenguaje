@@ -1,0 +1,111 @@
+body {
+    width: 980px;
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    font-family: Raleway;
+
+  }
+  
+  nav ul li {
+    list-style-type: none;
+    float: left;
+    margin: 0 25px;
+    text-transform: uppercase;
+    color: #666666;
+    font-size: 17px;
+  }
+  .espacioNav {
+    margin-left: 80px;
+  
+}
+
+
+  
+  header figure {
+    display: flex;
+  
+    justify-content: center;
+  }
+  
+  ul {
+    width: 980px;
+
+    margin: 0 auto;
+  }
+  
+  .seccion1 {
+    margin-top: 44px;
+    border-top: 3px solid black;
+  }
+  .imagen2 {
+    margin: 0 auto;
+  
+    margin-top: 10px;
+  }
+  .seccion2 {
+    width: 980px;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+  }
+  .imagen3 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  p {
+    border: 2px solid #666666;
+    font-size: 1.4em;
+    text-align: center;
+
+  }
+  
+  footer {
+    margin: 0 auto;
+  }
+  .imagen4 {
+    margin: 0;
+  }
+  .seccion3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 2px solid #666666;
+    border-bottom: 2px solid #666666;
+  }
+  
+  .Banners {
+    font-size: 14px;
+    line-height: 20px;
+    color: #666666;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+
+  }
+  .centrar {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+  }
+
+  .bannerimg {
+    display: flex;
+    justify-content: center;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  
+  .contactactanos {
+    list-style-type: none;
+    display: inline-block;
+    justify-content: center;
+    text-transform: uppercase;
+    color: #666666;
+    font-size: 1em;
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
